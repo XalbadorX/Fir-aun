@@ -6,14 +6,14 @@ import os
 import sys
 
 os.system("clear")
-print(" TOOLS BY : Xalbador
-print(" ###########################################
-print(" | AUTOR   : XALBADOR                      |
-print(" • CODE    : XLBDR                         •
-print(" | GITHUB  : https://github.com/XalbadorX. |
-print(" • DISCORD : ᶠʏͧᴏͨᵏᴜ#8511.                    •
-print(" | MY TEAM : https://discord.gg/jUHnF8et.  |
-print(" ###########################################
+print(" TOOLS BY : Xalbador")
+print(" ###########################################")
+print(" | AUTOR   : XALBADOR                      |")
+print(" • CODE    : XLBDR                         •")
+print(" | GITHUB  : https://github.com/XalbadorX. |")
+print(" • DISCORD : ᶠʏͧᴏͨᵏᴜ#8511.                    •")
+print(" | MY TEAM : https://discord.gg/jUHnF8et.  |")
+print(" ###########################################")
     
 ip = str(input("  IP TARGET:"))
 port = int(input(" PORT TARGET:"))
